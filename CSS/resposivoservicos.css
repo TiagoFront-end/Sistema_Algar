@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media(max-width: 1200px){
+
+    button{
+        position: relative;
+        left: 45px;
+    }
+   .preco{
+    position: relative;
+    left: 125px;
+   }
+   .txt-1{
+    position: relative;
+    left:-3px;
+   }
+}
+
+@media(max-width: 600){
+    button{
+        position: relative;
+        left:45px;
+    }
+   }

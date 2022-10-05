@@ -1,0 +1,31 @@
+@media(max-width:400px) {
+    
+    * {
+
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+     }
+    .navbar {
+        width: 100vw;
+       
+    }
+    img {
+        width: 88px;
+        position: relative;
+        top:-25px;
+        right: 450px;
+    }
+    i{
+        position: fixed;
+          width:22;
+          height: 55px;
+          padding-left: -22px;
+          padding-top:15px;
+          cursor: pointer;
+          top: 0;
+          right:0;
+          color:#fff;
+         
+       }
+}
